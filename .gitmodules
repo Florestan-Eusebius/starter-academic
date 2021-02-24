@@ -1,0 +1,4 @@
+[submodule "Florestan-Eusebius.github.io"]
+	path = Florestan-Eusebius.github.io
+	url = https://github.com/Florestan-Eusebius/Florestan-Eusebius.github.io
+	branch = main
