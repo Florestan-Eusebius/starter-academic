@@ -63,7 +63,7 @@ email: ""
 highlight_name: false
 ---
 
-I am an undergraduate student in School of Physics, Peking University. Guided by Prof. Xuzong Chen, my research interests are maily Cold Atom Physics. I am also interested in condensed matter theory. 
+I am an undergraduate student in School of Physics, Peking University. Guided by [Prof. Xuzong Chen](https://iqe.pku.edu.cn/yjry/zzjs/xuzong_chen/index.htm), my research interests are maily Cold Atom Physics. I am also interested in condensed matter theory. 
 
 I play the piano and listen to classical music. I mess about in the Piano Club in PKU. Johannes Brahms may be my favourite composer, but when I am upset, I turn to Beethoven.
 
