@@ -2,3 +2,7 @@
 	path = Florestan-Eusebius.github.io
 	url = https://github.com/Florestan-Eusebius/Florestan-Eusebius.github.io
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/Florestan-Eusebius/Florestan-Eusebius.github.io
+	branch = main
