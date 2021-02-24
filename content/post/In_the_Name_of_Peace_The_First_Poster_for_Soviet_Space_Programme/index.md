@@ -4,9 +4,11 @@
 title: "In the Name of Peace: The First Poster for Soviet Space Programme"
 subtitle: "The story of the poster, and the relationship between science and society."
 summary: "The story of the poster, and the relationship between science and society."
-authors: []
-tags: []
-categories: []
+authors: 
+- admin
+tags: 
+categories: 
+- Essay
 date: 2021-02-24T14:22:28+08:00
 lastmod: 2021-02-24T14:22:28+08:00
 featured: false
