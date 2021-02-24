@@ -3,14 +3,17 @@
 
 title: "写在五四运动一百周年"
 subtitle: ""
-summary: ""
-authors: []
+summary: "一百年前的今天，几千北京大学生走上街头，试图用自己的力量影响这个国家，让她的人民、她的政府为她争取应得的权利。直到一百年后，同一片土地上的人——无论是青年还是长者——都还在以崇敬的目光凝视着他们的背影。今天，坐在疾驰的火车上向那场风暴的策源地飞速接近的时候，我内心很难平静。我问自己，一百年过去了，五四何以让我们所有人崇敬和缅怀，又何以让听到这个词的青年心中产生这种奇异的波澜？"
+authors: 
+- admin
 tags: []
-categories: []
+categories: 
+- Essay
 date: 2019-05-04
 lastmod: 2019-05-04
 featured: false
 draft: false
+share: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

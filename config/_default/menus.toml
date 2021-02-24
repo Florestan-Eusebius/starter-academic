@@ -29,9 +29,19 @@
 #  weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  name = "Tags"
+  url = "#tags"
+  weight = 40
+
+[[main]]
+  name = "Friends"
+  url = "#friends"
+  weight = 50
+
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.

@@ -16,6 +16,7 @@ lastmod: "2021-02-23"
 
 # Is this an unpublished draft?
 draft: false
+share: false
 
 # Show this page in the Featured widget?
 featured: false
