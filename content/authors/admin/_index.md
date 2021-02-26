@@ -24,9 +24,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: BS in Physics
-    institution: Peking University
+  - course: Undergraduate in Physics
+    institution: 北京大学 | Peking University
     year: from 2018
+  - course: High School Degree
+    institution: 陕西师范大学附属中学 | The High School Affiliated to Shaanxi Normal University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -35,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:wang_yifei@pku.edu.cn'
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
