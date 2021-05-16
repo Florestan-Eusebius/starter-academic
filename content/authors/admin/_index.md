@@ -72,4 +72,8 @@ I play the piano and listen to classical music. I mess about in the Piano Club i
 
 爱好音乐，在钢琴社划水。可能最喜欢勃拉姆斯，但是需要健康的情绪时还是要听贝多芬。没事读书或者写点东西玩。和不嫌弃我水平低的人打羽毛球。
 
+## Who are Florestan and Eusebius?
+
+Robert Schumann published an essay in 1831 discussing Chopin's work, in which two imaginary characters were created: Florestan the passionate side and Eusebius the dreamy side. Later, Schumann used these figures to indicate the different sides of some of his own compositions. They (F & E) are also main members of the *Davidsbund*, an imaginary music society, respectively symbolising the extroverted and introspective sides of Schumann's personality. 
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
