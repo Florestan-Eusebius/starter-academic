@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "旋转群与角动量"
-subtitle: "旋转群的表示和量子力学中的角动量算符"
-summary: "旋转群的表示和量子力学中的角动量算符"
+title: "Notes for Physics"
+subtitle: "My notes for physics"
+summary: "My notes for physics"
 authors: 
 - admin
 tags: 
-- Quantum Mechanics
 categories: 
 - Academic
 - Physics
-date: 2021-05-16T10:40:32+08:00
-lastmod: 2021-05-16T10:40:32+08:00
+date: 2021-01-22
+lastmod: 2021-01-22
 featured: false
 draft: false
+share: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,4 +32,16 @@ image:
 projects: []
 ---
 
-<embed src="RotationGroup.pdf" width="100%" height="850" type='application/pdf'>
+<!-- {{<embed-pdf src="content.pdf">}} -->
+
+Analytical and numerical approaches to Bose Hubbard Model (not finished).
+<a href="BHM.pdf"> Bose Hubbard Model </a>
+
+Transformations in Physics (not finished).
+<a href="transf.pdf"> Transformations in Physics </a>
+
+等概率原理的假设是必要的吗?
+<a href="Entanglement and statistic mechanics.pdf"> 纠缠和统计力学的基础 </a>
+
+关于旋转群和量子力学中角动量的讨论.
+<a href="RotationGroup.pdf"> 旋转群与角动量 </a>
